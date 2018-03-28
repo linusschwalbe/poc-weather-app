@@ -1,5 +1,5 @@
 # :zap: poc-weather-app :zap: #
-A fast exercise to creating a weather forecast application in React.
+A fast exercise to create a weather forecast application in React.
 
 ## Usage ##
 To run the exercise use the following:
